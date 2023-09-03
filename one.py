@@ -1,6 +1,6 @@
 
-one = jeden
-two = 2.1
-three = 3.3
+one = 1.0
+two = dwa
+three = 3
 
 
